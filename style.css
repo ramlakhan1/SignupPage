@@ -7,7 +7,7 @@
 .outer-box {
     width: 100vw;
     height: 100vh;
-    background: linear-gradient(to top left, #3ed8ff, #a8f5ff);
+    background: linear-gradient(to top left, rgba(0, 255, 13, 0.634), rgb(29, 121, 167));
 }
 .inner-box {
     width: 400px;
@@ -67,7 +67,7 @@ color: #2773a5;
     width: 200px;
     height: 200px;
     border-radius: 100px;
-    background: linear-gradient(to top right, #ffffff33, #ffffffff);
+    background: linear-gradient(to top right, #18964b33, rgb(206, 39, 39));
     position: absolute;
 }
 .c1{
